@@ -2,7 +2,7 @@
  
          
     <a class="navbar-brand ml-md-5 font-weight-bold logo" href="index.php" >
-        <p style="color:#0f4c75;">bs &nbsp;<small class="p-0" style="color:#0f4c75bf">beta virtuals</small></p>
+        <p style="color:#0f4c75;">bs &nbsp;<small class="p-0" style="color:#0f4c75bf">Equalgate</small></p>
     </a>
             
             
@@ -14,7 +14,7 @@
       <div class="collapse navbar-collapse " id="navbarNavDropdown">
         <ul class="navbar-nav ml-auto font-weight-bold mr-md-5"> 
           <li class="nav-item">
-            <a class="nav-link" href="index.php">Why Beta Virtuals</a>
+            <a class="nav-link" href="index.php">Why Equalgate</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="what-we-do.php">What we do</a>
@@ -52,7 +52,7 @@
                         
                         <div class="col-12 text-center mt-md-4">
                             <font class="heading" style="cursor:pointer;">
-                                Hire a virtual assistant
+                                Hire an Assistant
                             </font>
                         </div>
                         

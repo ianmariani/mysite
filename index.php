@@ -3,7 +3,7 @@
 <head>
     <?php include("pack/header.php"); ?>
 
-    <title>beta virtuals</title>
+    <title>Equalgate</title>
     
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css"> 
@@ -38,7 +38,7 @@
                     Experienced In <br> Consult & Business Advice!
                 
                     <p class="banner-secondary-text">
-                        Beta Virtuals who excels at organizing your chaos.
+                        Equalgate Services excels at organizing your chaos.
                         <br>
                         Assisting you in crafting, expressing, and wholeheartedly embracing your vision..
                     </p>
@@ -58,7 +58,7 @@
              <div class="col-md-4 p-md-4 p-sm-0" style="background-color:#0f4c75;border-radius:1% 0% 0% 1%" >
                 <i class="far fa-calendar-alt stripe-icon"></i>
                 <span class="stripe-text">
-                    Get back hours of time each week
+                    Get back hours each week
                 </span>
              </div>
              <div class="col-md-4 p-md-4 p-sm-0" style="background-color:#1c86cc" >
@@ -83,12 +83,12 @@
         <div class="row">
             <div class="col-12 text-center">
                 <font class="heading" data-aos="fade-up" >
-                     BETA VIRTUAL SERVICES
+                EQUALGATE SERVICES SERVICES
                 </font> 
                 <hr class="hr" data-aos="zoom-in"  >
                 <p class="paragraph" data-aos="fade-up">
-                    Delegate your personal tasks like research, software development <br>
-                    calendar management ,online research & many more.
+                    Delegate your tasks like research, software development <br>
+                    calendar management, online research & many more.
                 </p>
             </div>
         </div>
@@ -244,7 +244,7 @@
              <div class="col-md-2"></div>
              <div class="col-md-4">
                  <font class="heading" data-aos="fade-up" >
-                     About beta virtuals
+                     About Equalgate
                  </font>
                  
                  <p class="paragraph" data-aos="fade-up" >
@@ -280,11 +280,11 @@
              <div class="col-md-12 text-center">
                  
                  <font class="heading" data-aos="fade-up" >
-                     Request a call back ?
+                     Request a callback?
                  </font>
                  <hr class="hr" data-aos="zoom-in" >
                  <p class="paragraph" data-aos="fade-up" >
-                    We are allways there for you!!!!
+                    We are always there for you!!!!
                  </p>
                  <br><br>
              </div>
@@ -298,7 +298,7 @@
                
              <div class="col-md-4 bg-light another-card my-auto shadow-lg p-5 rounded" data-aos="flip-right">
                  <font class="heading" style="font-size:20px">
-                     Make an appoinment
+                     Make an appointment
                  </font>
                  
                  <p class="paragraph" style="font-size:12px">
@@ -306,7 +306,7 @@
                  </p>
                  <p>
                      <i class="fas fa-phone-alt"></i> &nbsp;+254 750639943 <br>
-                     <i class="far fa-envelope-open"></i> &nbsp; ian@betavirtuals.com
+                     <i class="far fa-envelope-open"></i> &nbsp; ian@floorgate.net
                  </p>
                  
                   
@@ -326,7 +326,7 @@
             <div class="col-md-3" data-aos="flip-left" >
                 <i class="fas fa-headset p-4 shadow second-icons" aria-hidden="true" style="border-radius:50%;font-size:25px;"></i>
                 <h5 class="font-weight-bold">
-                    50+
+                    500+
                 </h5>
                 <p>
                     Support given
@@ -338,7 +338,7 @@
                     Clients rating
                 </h5>
                 <p>
-                    20+
+                    2000+
                 </p>
             </div>
             <div class="col-md-3" data-aos="flip-right" >
@@ -356,7 +356,7 @@
                     Award won
                 </h5>
                 <p>
-                    1
+                    4
                 </p>
             </div>
             

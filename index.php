@@ -83,7 +83,7 @@
         <div class="row">
             <div class="col-12 text-center">
                 <font class="heading" data-aos="fade-up" >
-                EQUALGATE SERVICES SERVICES
+                EQUALGATE
                 </font> 
                 <hr class="hr" data-aos="zoom-in"  >
                 <p class="paragraph" data-aos="fade-up">

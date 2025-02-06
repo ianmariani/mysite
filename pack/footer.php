@@ -8,7 +8,7 @@
             </font><br>
             <a class="footer-link" href="what-we-do.php">What we do</a><br> 
             <a class="footer-link" href="about-us.php">About us</a><br> 
-            <a class="footer-link" href="https://calendly.com/betavirtuals/30min">Free consultation</a><br> <br> <br> 
+            <a class="footer-link" href="https://calendly.com/equalgateservices/30min">Free consultation</a><br> <br> <br> 
         </div>
 
 
@@ -36,11 +36,11 @@
             <font class="font-weight-bold">
                 Follow us
             </font><br>
-            <a class="footer-icon" href="index.php"><img src="img/phone.png"></a> &nbsp;
+            <a class="footer-icon" href="+254750639943"><img src="img/phone.png"></a> &nbsp;
             <a class="footer-icon" href="index.php"><img src="img/facebook.png"></a> &nbsp; 
            
             <a class="footer-icon" href="index.php"><img src="img/email.png" ></a>  &nbsp;
-            <a class="footer-icon" href="index.php"><img src="img/linkedin.png"></a>  &nbsp;
+           
             
             
         </div> 
@@ -52,7 +52,7 @@
         <div class="col-md-1"></div>
         <div class="col-md-10 text-center">
             <hr style="height:0.4px; background-color:white;border:none">
-            <small>Equalgate© Copyright 2025 - ES . All rights reserved.</small>
+            <small>Equalgate © Copyright 2025 - ES . All rights reserved.</small>
         </div>
         <div class="col-md-1"></div>
         

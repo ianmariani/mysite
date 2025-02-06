@@ -2,7 +2,7 @@
  
          
     <a class="navbar-brand ml-md-5 font-weight-bold logo" href="index.php" >
-        <p style="color:#0f4c75;">bs &nbsp;<small class="p-0" style="color:#0f4c75bf">Equalgate</small></p>
+        <p style="color:#0f4c75;">ES &nbsp;<small class="p-0" style="color:#0f4c75bf">Equalgate</small></p>
     </a>
             
             
@@ -27,7 +27,7 @@
           <!--</li> -->
           <li class="nav-item my-auto"> 
             <button class="nav-link badge badge-pill text-light p-2" data-toggle="modal" data-target="#contact-modal" style="background-color:#0f4c75 !important">
-               <a href="https://calendly.com/betavirtuals/30min">Free consultation</a>
+               <a href="https://calendly.com/equalgateservices/30min">Free consultation</a>
             </button>
           </li> 
         </ul>
@@ -40,7 +40,7 @@
   <div class="modal-dialog fullscreen-modal  modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title" id="myModalLabel">VS - Virtual assistant</h4>
+        <h4 class="modal-title" id="myModalLabel">Proffesional Assistant Services</h4>
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
       

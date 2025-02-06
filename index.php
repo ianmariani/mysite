@@ -149,7 +149,7 @@
                     </div>
                     <div class="col-12">
                         <br>
-                        <font class="p-2 heading" style="font-size:17px">Ecommerce Assistant</font>
+                        <font class="p-2 heading" style="font-size:17px">Achicad/Autocad </font>
                     </div>
                 </div>    
             </div>
@@ -161,7 +161,7 @@
                     </div>
                     <div class="col-12">
                         <br>
-                        <font class="p-2 heading" style="font-size:17px">Project Management</font>
+                        <font class="p-2 heading" style="font-size:17px">Solidworks</font>
                     </div>
                 </div>    
             </div>
@@ -248,8 +248,8 @@
                  </font>
                  
                  <p class="paragraph" data-aos="fade-up" >
-                     It's an approach that brings together the best of time management planning and the best of investment management.<br>
-                     A corporate tactic is the method through which it endeavors to accomplish coveted objectives.
+                     It's an approach that combines the best of time management planning and investment management.<br>
+                     A corporate tactic is how it endeavors to accomplish coveted objectives.
                      You possess thoughts, aspirations, and visions. We boast an ethnically varied, progressive team in search of individuals with your talents..
                  </p>
                  

@@ -3,7 +3,7 @@
 <head>
     <?php include("pack/header.php"); ?>
 
-    <title>Beta Virtuals</title>
+    <title>Equalgate</title>
     
     <style>
     
@@ -76,7 +76,7 @@
             <div class="col-12 p-0 my-auto">
                 <header class="header2">
                    
-                        <h1 class="banner-text-2" data-aos="fade-up" data-aos-offset="400">Beta Virtuals Services</h1>
+                        <h1 class="banner-text-2" data-aos="fade-up" data-aos-offset="400">Equalgate Services</h1>
                      
                 </header> 
             </div>
@@ -121,12 +121,12 @@
                                 appointments. They are trained to perform multitasks at a time. 
                             </p>
                             <p class="font-weight-bold">
-                                What can our personal assistants do?
+                                What can our assistants do?
                             </p>   
                             <p class="paragraph">
-                                With our virtual personal assistants, you can rest assured of your tasks accomplished
+                                With our virtual personal assistants, you can rest assured that your tasks accomplished
                                 right on time. The list expands as the technology moves forward. The virtual assistant
-                                can do followings:
+                                can do following:
                                 
                                 <ol class="paragraph">
                                     <li>
@@ -134,10 +134,10 @@
                                     </li>
                                     <li>
                                         Organize your calendar: If you’re constantly overbooked and cluttered with
-                                        appointments and meetings, let our personal assistant sort it for you.
+                                        appointments and meetings, let our assistant sort it for you.
                                     <li>
-                                        <span style="color:black;font-weight:500">Set appointments:</span> Our virtual assistant can manage all your official appointments,
-                                        send reminders and meeting confirmation on your behalf.
+                                        <span style="color: black;font-weight:500">Set appointments:</span> Our virtual assistant can manage all your official appointments,
+                                        send reminders and meeting confirmations on your behalf.
                                     </li>    
                                     <li>
                                         Display a variety of alerts and reminders: We can assist you with reminders which
@@ -170,7 +170,7 @@
                             </font>
                             <p class="paragraph">
                                 Sometimes, little things make a big difference. In today’s digital
-                                world, there is a necessity to maintain brand image on social media. Instead of doing it
+                                world, there is a necessity to maintain a brand image on social media. Instead of doing it
                                 your own, let us handle it. Social media presence is vital if you are running a small
                                 business. It can increase your sales, widen your market, and generate new leads.
                             </p>
@@ -185,18 +185,18 @@
                                         come up with newer social media posts or blog ideas through our social media assistants.
                                     </li>
                                     <li>
-                                        Generating ideas for page posts: Our virtual assistant can help you in generating
-                                        ideas for the social media account which will help you to grab attention of the audiences.
+                                        Generating ideas for page posts: Our virtual assistant can help you generate
+                                        ideas for the social media account which will help you to grab the attention of the audiences.
                                     <li>
                                         <span style="color:black;font-weight:500">Updating social media profiles regularly:</span> It is not an easy task to keep your social
-                                        media profile up-to-date. Don’t take too much stress on your mind. Let us manage the account.
+                                        media profile up-to-date. Don’t put too much stress on your mind. Let us manage the account.
 
                                     </li>    
                                     <li>
                                          Researching for content: Research is very important. The content needs to be
                                         accurate as it will influence so many. Our experienced and skilled assistant will
-                                        definitely prove to be great. Catchy Posts are the need on social media and they
-                                        know how to create the catchy and relevant posts for your brand.
+                                        prove to be great. Catchy Posts are needed on social media and they
+                                        know how to create catchy and relevant posts for your brand.
                                     </li>
                                     <li>
                                         <span style="color:black;font-weight:500">Managing campaigns:</span> Advertisements and campaigns helps the audience to
@@ -204,10 +204,10 @@
                                     </li>
                                     <li>
                                         <span style="color:black;font-weight:500">Creating and sending out monthly newsletters and promotions:</span> Promotion is an
-                                        essential tool which helps the business to flourish.
+                                        essential tool that helps the business to flourish.
                                     </li> 
                                     <li>
-                                        <span style="color:black;font-weight:500">Scheduling content posts:</span> to Hire our virtual assistant get your content planned
+                                        <span style="color:black;font-weight:500">Scheduling content posts:</span> Hire our virtual assistant get your content planned
                                         and scheduled for social media engagement. 
                                     </li>
                                     <li>
@@ -216,7 +216,7 @@
                                     </li>
                                     <li>
                                         <span style="color:black;font-weight:500">View Analytics and reporting competitor activity:</span> Analyse your web presence,
-                                        current traffic, user engagement and other things with our social media assistants.
+                                        current traffic, user engagement, and other things with our social media assistants.
                                     </li>
                                     
                                 </ol>
@@ -233,7 +233,7 @@
                 <div class="row p-0">
                     <div class="col-12 ">
                             <font class="heading" style="font-size:30px;">
-                                Research assistant
+                                Research Assistant
                             </font>
                             <p class="paragraph">
                                Everything begins with research. Well-conducted research is vital to
@@ -259,7 +259,7 @@
                                     <li>
                                         <span style="color:black;font-weight:500">Vendor selection study:</span> Our virtual research assistant can compare price
                                         quotations from multiple vendors and supply information that you can count upon
-                                        to make purchase decisions. We assure you to present rates from vendors who
+                                        to make purchase decisions. We assure you that present rates from vendors who
                                         provide the best quote and value.
 
 
@@ -274,7 +274,7 @@
                                         can count upon, hire a virtual research assistant from EVA. Our remote worker
                                         would be glad to run a comprehensive search on credible sites using the correct
                                         search phrases. The information relevant to your requirement will be captured and
-                                        populated in custom format.
+                                        populated in a custom format.
                                     </li>
                                     <li>
                                         <span style="color:black;font-weight:500">Influencer research:</span> Stay up- to- date on trends; and influencers, in your field.
@@ -298,7 +298,7 @@
                                     <span style="color:black;font-weight:500">No Administrative Concerns:</span> Managing administrative roles can be a concern
                                     even for large enterprises. This is completely taken care of by our virtual research
                                     assistants because our team has exposure to simple and complex tasks. All of it
-                                    managed from our brick and mortar facility. Since you don't have to own
+                                    managed from our brick-and-mortar facility. Since you don't have to own
                                     resources and IT infrastructure, you will not be invoiced for the administrative
                                     system. 
                                 </li>
@@ -314,9 +314,9 @@
                                     dissatisfactory, we will ensure its remediation before the service is signed off.
                                 </li>
                                 <li>
-                                    <span style="color:black;font-weight:500">Timeliness:</span> The timeliness and accountability are among many things we
+                                    <span style="color:black;font-weight:500">Timeliness:</span> Timeliness and accountability are among many things we
                                     prioritize because we value your time. Instead of providing dubious assurances
-                                    we will convey realistic turnaround time that is specific to each project. Once we
+                                    we will convey a realistic turnaround time that is specific to each project. Once we
                                     promise delivery of services, the task will be completed without stretching the
                                     deadline 
                                 </li>
@@ -345,7 +345,7 @@
                                 There is so much work to handle in a store saying, order,
                                 delivery, product management, product listing and categorization, and social media
                                 handles. Avoid making the big mistake of thinking you can do it all alone. Hire a virtual
-                                ecommerce assistant in order to work with efficiency.
+                                ecommerce assistant to work with efficiency.
                             </p>
                             <p class="font-weight-bold">
                                 What's the need to hire an e-commerce assistant?
@@ -362,7 +362,7 @@
                                     <li>
                                         Update the pricing information: It is really important to update the pricing
                                         information. Why take the burden on your shoulders, when we are here to help
-                                        you out. Our assistant will do all pricing related work.
+                                        you out. Our assistant will do all pricing-related work.
                                     </li>
                                     <li>
                                         Ensure customer satisfaction: Feedback is really important to know whether the
@@ -383,13 +383,13 @@
                                     </li>
                                     <li>
                                         <span style="color:black;font-weight:500">Process orders:</span> Our E-commerce Assistant can handle processing your
-                                        company’s orders including order entry, shipment and invoicing. They can compile
-                                        the orders, send customer invoices to your drop-ship vendors and/or shipping
+                                        company’s orders including order entry, shipment, and invoicing. They can compile
+                                        the orders, send customer invoices to your drop-ship vendors, and/or shipping
                                         companies, and other daily tasks.
                                     </li> 
                                     <li>
                                         <span style="color:black;font-weight:500">Manage promotions:</span> Promotion has become an important part of marketing. Our
-                                        virtual assistant can help in building name of the organization
+                                        virtual assistants can help in building the name of the organization
                                     </li>
                                     <li>
                                         Take care of your finances.
@@ -408,7 +408,7 @@
                                 <li>
                                     <span style="color:black;font-weight:500">Content creation:</span> An eCommerce virtual assistant can write quality blogs for your
                                     online shopping store. This benefit is indeed worth noticing as content is king and
-                                    without it you cannot reach the audiences on search engines.
+                                    without it, you cannot reach the audiences on search engines.
                                 </li>
                                 <li>
                                     <span style="color:black;font-weight:500">Social Media management:</span> They are beneficial towards managing social media
@@ -417,7 +417,7 @@
                                 </li>
                                 <li>
                                     <span style="color:black;font-weight:500">Great logistic support:</span> All sorts of order processing, returns and exchange related
-                                    tasks is taken care of promptly
+                                    tasks are taken care of promptly
                                 </li>
                             </ol>
                             
@@ -460,12 +460,12 @@
                                         off on a successful path. The virtual project assistant will create a timeline with
                                         deadlines, assign tasks to the team, control time management, monitor progress,
                                         oversee quality control, provide feedback, and will make sure everything is
-                                        successfully completed.
+                                        completed.
                                     </li>    
                                     <li>
-                                        Monitors cost estimates and develops the budget: Our virtual project assistant will
-                                        understand the limits of a budget and importance of sticking to it. If a project is
-                                        delivered as expected but goes over-budget, then it will still be considered a
+                                        Monitors cost estimates and develop the budget: Our virtual project assistant will
+                                        understand the limits of a budget and the mportance of sticking to it. If a project is
+                                        delivered as expected but goes over budget, then it will still be considered a
                                         failure.
                                     </li> 
                                 </ol> 
@@ -547,15 +547,15 @@
                 <div class="row p-0">
                     <div class="col-12 ">
                             <font class="heading" style="font-size:30px;">
-                                Email managment
+                                Email management
                             </font>
                             <p class="paragraph">
                                 There are dozens of tasks your virtual assistant can support you
                                 with when it comes to email management services. Your virtual assistant can: Set up
                                 alerts, rules, and filters to suit your needs and preferences. Clean up and sort, archive or
                                 delete old emails clogging up your inbox.<br>
-                                The habit of checking emails on a regular basis is a good one, but it can steal valuable
-                                and productive time. A few minutes here and there adds up. Running a successful
+                                The habit of checking emails regularly is a good one, but it can steal valuable
+                                and productive time. A few minutes here and there add up. Running a successful
                                 business means every minute counts. When hiring an email virtual assistant, control of
                                 your email inbox is passed over to the freelancer. It’s no longer required of the business
                                 owner to check emails every few minutes.
@@ -567,7 +567,7 @@
                              
                              <p class="paragraph">
                                 Decluttering the inbox and organizing the inbox are tasks that are often shifted to the
-                                bottom of the to-do list and then carried over to the next day, next week…It is the virtual
+                                bottom of the to-do list and then carried over to the next day, next week…It is a virtual
                                 assistant’s function to organize the inbox so that it makes sense to the business ow
                              </p>
                                 
@@ -581,7 +581,7 @@
                                        ever-growing list of contacts so that you can easily get information when you need to.
                                     <li>
                                         <span style="color:black;font-weight:500">Drafting emails:</span> If you need mailers to be sent out to clients or prospective clients,
-                                        our Email Assistant can draft a catchy and crisp mailer for you. 
+                                        Our email Assistant can draft a catchy and crisp mailer for you. 
                                     </li>    
                                     <li>
                                         <span style="color:black;font-weight:500">Calendar management:</span> A virtual email assistant will keep track of and update
@@ -593,7 +593,7 @@
                                     <li>
                                         <span style="color:black;font-weight:500">Manage and update contact lists:</span> An ever-growing contact list can be a nightmare
                                         if it is not handled and segregated properly. Hire a virtual email assistant to keep
-                                        your lists updated and properly classified into categories. 
+                                        your lists are updated and properly classified. 
                                     </li> 
                                 </ol> 
                             
@@ -677,7 +677,7 @@
                                 Travel assistant
                             </font>
                             <p class="paragraph">
-                                A virtual travel assistant also offers support for your personal vacation
+                                A virtual travel assistant also offers support for your vacation
                                 and travel. They will help you plan your ideal vacation and take some much-needed rest.
                                 With knowledge of your preferences and budgetary limits, an experienced VA can help
                                 you get the most out of your trip. 
@@ -741,10 +741,10 @@
                             
                             <ol class="paragraph">
                                     <li>
-                                        Stress-free vacation: Our Virtual assistant will help to organise a stress-free vacation.
+                                        Stress-free vacation: Our Virtual assistant will help to organize a stress-free vacation.
                                     </li>
                                     <li>
-                                        Saving Time: Obviously one of the best benefits of virtual travel assistants is that
+                                        Saving Time: One of the best benefits of virtual travel assistants is that
                                         they save you so much time! Planning travel is such a time-consuming activity.
                                     </li>
                                     <li>
@@ -793,7 +793,7 @@
                                 
                              
                             <p class="font-weight-bold mt-3">
-                                Benefits of choosing a assistant 
+                                Benefits of choosing an assistant 
                             </p>
                             
                             <ol class="paragraph">
@@ -803,8 +803,8 @@
                                     </li>
                                     <li>
                                         The Website Administration Virtual Assistant provides the maintenance,
-                                        monitoring and fine-tuning of the business’ website online presence.
-                                        Consequently this improves your company’s Internet presence to increase brand
+                                        monitoring, and fine-tuning of the business’ website online presence.
+                                        Consequently, this improves your company’s Internet presence to increase brand
                                         recognition, brand loyalty, and brand authority. As a result, this provides more
                                         opportunities to convert and increase inbound traffic at a decreased marketing cost. 
                                     </li> 
@@ -813,7 +813,7 @@
                             <p class="paragraph mt-2">
                                 You may also hire a Website Administration Virtual Assistant when your business needs
                                 to establish brand recognition and authority to increase sales prospects.
-                                Consequently we offer you the flexibility to choose and adapt as your business needs
+                                Consequently, we offer you the flexibility to choose and adapt as your business needs
                                 change and evolve.
                              </p>
                             

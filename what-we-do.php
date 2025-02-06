@@ -3,7 +3,7 @@
 <head>
     <?php include("pack/header.php"); ?>
 
-    <title>Beta Virtual Assistant</title>
+    <title>Equalgate</title>
     
     <style>
     
@@ -64,7 +64,7 @@
         <div class="row">
             <div class="col-12 text-center pt-md-5 pt-md-2 ">
                  <font class="heading" style="font-size:30px" data-aos="fade-up" >
-                     What can beta virtuals help you with?
+                     What can Equalgate help you with?
                  </font>
                  <hr class="hr" data-aos="zoom-in" >
                  <p class="paragraph" data-aos="fade-up" >
@@ -259,11 +259,11 @@
         <div class="row">
             <div class="col-12 text-center pt-md-5 pt-md-2 ">
                  <font class="heading" style="font-size:30px" data-aos="fade-up" >
-                     What doesn't beta virtuals service do ? 
+                     What doesn't Equalgate do ? 
                  </font>
                  <hr class="hr" data-aos="zoom-in"   >
                  <p class="paragraph" data-aos="fade-up" >
-                     We, at Beta Virtual Services are ready to assist with your tasks across the board, but
+                     We, at Equalgate are ready to assist with your tasks across the board, but
                      there is something that we don’t do.
                  </p>
             </div>
@@ -274,7 +274,7 @@
                     <li>
                          Payment on behalf of clients<br>
                          <span class="text-secondary font-weight-normal">
-                             We can help you find options, reserve places, paperwork, creating legal drafts, managing
+                             We can help you find options, reserve places, and paperwork, create legal drafts, manage
                              expense sheets, sourcing candidates, and much more but the payment
                              link is shared with you. We don't make payments on behalf of any of our clients.
                          </span>
@@ -283,12 +283,12 @@
                     <li>
                         Devise strategy or set the direction for your business<br>
                         <span class="text-secondary font-weight-normal">
-                                 If you’re overworked, virtual assistants are great at taking the grunt-work out of your
-                                business. When it comes to the parts of your business that are more strategic in nature
+                                 If you’re overworked, virtual assistants are great at taking the grunt work out of your
+                                business. When it comes to the parts of your business that are more strategic 
                                 however, that’s on you. As a business owner, your direction and strategy are the parts of
-                                your business that you know best. You are the person that best knows your market and
+                                your business that you know best. You are the person who best knows your market and
                                 how to steer your business through it. Nobody can take your place! Our virtual assistants
-                                can help by providing the input. But the final call is on your shoulders, and no-one else’s.
+                                can help by providing the input. But the final call is on your shoulders, and no one else’s.
                          </span>
                     </li>
                     <br>

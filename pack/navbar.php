@@ -2,7 +2,7 @@
  
          
     <a class="navbar-brand ml-md-5 font-weight-bold logo" href="index.php" >
-        <p style="color:#0f4c75;">ES &nbsp;<small class="p-0" style="color:#0f4c75bf">Equalgate</small></p>
+        <p style="color:#0f4c75;">eg &nbsp;<small class="p-0" style="color:#0f4c75bf">Equalgate</small></p>
     </a>
             
             

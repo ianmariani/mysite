@@ -130,7 +130,7 @@
                     </div>
                     <div class="col-12">
                         <br>
-                        <font class="p-2 heading" style="font-size:17px">Research Assistant</font>
+                        <font class="p-2 heading" style="font-size:17px">Research Services</font>
                     </div>
                 </div>    
             </div>
@@ -149,7 +149,7 @@
                     </div>
                     <div class="col-12">
                         <br>
-                        <font class="p-2 heading" style="font-size:17px">Achicad/Autocad </font>
+                        <font class="p-2 heading" style="font-size:17px"> E-commerce </font>
                     </div>
                 </div>    
             </div>
@@ -161,7 +161,7 @@
                     </div>
                     <div class="col-12">
                         <br>
-                        <font class="p-2 heading" style="font-size:17px">Solidworks</font>
+                        <font class="p-2 heading" style="font-size:17px">Achicad/AutoCad/Solidworks</font>
                     </div>
                 </div>    
             </div>

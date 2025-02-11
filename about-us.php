@@ -3,7 +3,7 @@
 <head>
     <?php include("pack/header.php"); ?>
 
-    <title>VS - Equalgate Services || About us</title>
+    <title> Equalgate Services || About Us</title>
     
     <style>
     
@@ -83,13 +83,13 @@
             <div class="col-12 text-center pt-md-5 pt-md-2">
                 
                  <font class="heading" style="font-size:30px" data-aos="fade-up" >
-                    About beta virtuals
+                    About Equalgate
                  </font>
                  <hr class="hr" data-aos="zoom-in" >
                  <br>
                  <p class="paragraph text-left" data-aos="fade-up" >
                     By virtually assisting you, We promise to reduce your overhead costs, automate repetitive tasks, and boosts productivity to remain competitive and bring values to your business.<br><br>
-                    <span data-aos="fade-up">We have been surging around the world to meet the demand of increasing entrepreneurial fever, by matching up busy entrepreneur’s short deadlines at a fraction of cost.<br><br></span>
+                    <span data-aos="fade-up">We have been surging worldwide to meet the demand of increasing entrepreneurial fever, by matching up busy entrepreneur’s short deadlines at a fraction of cost.<br><br></span>
                     <span data-aos="fade-up">Equalgate can start with little or no training Of course, you will have to show them the roots of your specific business, but the good news is that they’ve already done similar work for other clients and they have a ton of experience in serving clients remotely.<br><br></span>
                     <span data-aos="fade-up">We choose the best of our professionals to appoint them as your administrative assistants, who give up the stress and focus on what’s more important, thereby, relentlessly driving your vision into completion.<br><br></span>
 
@@ -111,7 +111,7 @@
                  <br>
                  <p class="paragraph text-left" data-aos="fade-up">
                      Our Virtual Assistants are trained in their core areas of expertise. They already have tons of experience working for clients remotely and can help you streamline your outsourcing process. 
-                     We match you to a Virtual Assistant whose existing skills will make the biggest impact on your workload.
+                     We match you to a Virtual Assistant whose existing skills will impact your workload most.
                  </p>
                   
                   
@@ -147,7 +147,7 @@
                                 <span class="p-2 heading" style="font-size:17px">Security and trust</span><br>
                                 <font class="text-secondary">
                                     All our VAs undergo a background check and our computer systems are highly secure.
-                                    We assure you yof our data’s security.
+                                    We assure you of our data’s security.
                                 </font>
                             </div>
                         </div>    

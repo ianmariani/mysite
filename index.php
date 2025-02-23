@@ -161,7 +161,7 @@
                     </div>
                     <div class="col-12">
                         <br>
-                        <font class="p-2 heading" style="font-size:17px">Achicad/AutoCad/Solidworks</font>
+                        <font class="p-2 heading" style="font-size:17px">Achicad/AutoCad</font>
                     </div>
                 </div>    
             </div>
@@ -259,7 +259,7 @@
                         
 
                         "It's a strategy that combines the finest financial planning expertise with the finest investment management." <br>
-                         <cite>~ Ian Mariani - Founder </cite>
+                         <cite>~ Equalgate Founder </cite>
                      </font>
                  </div>
                  
@@ -292,7 +292,7 @@
              
              <div class="col-md-2"></div>
              <div class="col-md-4 p-0 my-auto  ">
-                <img src="img/call_us.jpg" class="img-fluid shadow-sm rounded" data-aos="flip-left" />
+              
              </div>
                
                
@@ -305,8 +305,8 @@
                      FOR ANY INQUIRY
                  </p>
                  <p>
-                     <i class="fas fa-phone-alt"></i> &nbsp;+254 750639943 <br>
-                     <i class="far fa-envelope-open"></i> &nbsp; ian@floorgate.net
+                     
+                     <i class="far fa-envelope-open"></i> &nbsp; admin@floorgate.net
                  </p>
                  
                   
